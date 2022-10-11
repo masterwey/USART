@@ -1,1 +1,1 @@
-git remote add origin https://github.com/masterwey/USART_TEST.git
+git remote add origin https://github.com/masterwey/USART.git
